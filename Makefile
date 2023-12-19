@@ -13,7 +13,7 @@ help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 live:
-	sphinx-autobuild --ignore _build -b dirhtml  . _build/dirhtml/
+	sphinx-autobuild --ignore _build -b dirhtml . _build/dirhtml/
 
 .PHONY: help Makefile
 
