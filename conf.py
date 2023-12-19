@@ -43,9 +43,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', "*import_posts*",
 #
 html_theme = 'pydata_sphinx_theme'
 
-import yaml
-with open ('info.yml','r') as f:
-    html_context = yaml.safe_load(f)
+# import yaml
+# with open ('info.yml','r') as f:
+#     html_context = yaml.safe_load(f)
 
 
 html_theme_options = {
