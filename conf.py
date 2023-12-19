@@ -71,14 +71,14 @@ html_static_path = ['_static']
 # map pages to which sidebar they should have 
 #  "page_file_name": ["list.html", "of.html", "sidebar.html", "files.html"]
 html_sidebars = {
-    "index": ["hello.html"],
-    "about": ["hello.html"],
-    "resume": ["hello.html"],
-    "news": ["hello.html", 'archives.html'],
-    "news/**": ['postcard.html', 'recentposts.html', 'archives.html'],
-    "blog": ['tagcloud.html', 'archives.html'],
-    "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
-    "pechakucha":[]
+    "index": ["index.html"],
+    #"about": ["hello.html"],
+    #"resume": ["hello.html"],
+    #"news": ["hello.html", 'archives.html'],
+    #"news/**": ['postcard.html', 'recentposts.html', 'archives.html'],
+    #"blog": ['tagcloud.html', 'archives.html'],
+   # "blog/**": ['postcard.html', 'recentposts.html', 'archives.html'],
+    #"pechakucha":[]
 }
 
 
