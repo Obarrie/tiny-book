@@ -22,7 +22,7 @@ jobs:
     - name: Install Jupyter Book
       run: |
         pip install --upgrade pip
-        pip install -U Jupyter Book
+        pip install -U jupyter-book
 
 
     # Build the book
