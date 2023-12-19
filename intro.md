@@ -1,11 +1,11 @@
-# Welcome to your Jupyter Book
+# Welcome to The Jupyter Book That Explains String Searching Algorithm
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book will explain the searching algorithms we chose and the project we decided to implement using those algorithms.The project was Control F and this notebook will also explain how to compile and use the projects. 
 
-Check out the content pages bundled with this sample book to see more.
+![String Search](https://www.agilitypr.com/wp-content/uploads/2016/06/search-blog-01.png) 
+
 
 ```{tableofcontents}
 ```
+
+
