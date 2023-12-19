@@ -20,7 +20,7 @@ extensions = [
     #"ablog",
     'sphinx.ext.intersphinx',
     "sphinx_design",
-    "sphinxext.opengraph",
+    #"sphinxext.opengraph",
 ]
 
 # "sphinxext.rediraffe",
