@@ -17,7 +17,7 @@ author = 'Your Name'
 # ones.
 extensions = [
     "myst_nb",
-    "ablog",
+    #"ablog",
     'sphinx.ext.intersphinx',
     "sphinx_design",
     "sphinxext.opengraph",
