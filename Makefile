@@ -7,4 +7,4 @@ BUILDDIR      = _build
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(SOURCEDIR) $(BUILDDIR)/dirhtml
 
-# Other rules (e.g., clean) may be present depending on your needs
+
